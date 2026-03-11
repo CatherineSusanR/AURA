@@ -236,4 +236,3 @@ We envision a world where no one is left out of a conversation because of a lang
 <p align="center">
   Made with ❤️ by the AURA Team
 </p>
-```
