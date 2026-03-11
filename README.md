@@ -22,10 +22,8 @@
   - [Prerequisites](#prerequisites)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
+- [Team](#team)
 - [Vision](#vision)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## The Problem
