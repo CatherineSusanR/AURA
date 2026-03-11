@@ -45,7 +45,7 @@ We built **AURA**, a **multi-modal communication system** that seamlessly connec
 
 **Sign Language**  
 **Text**  
-**Speech  
+**Speech**
 
 AURA allows users to communicate through **three different input modes**:
 
