@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status" />
-  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
   <img src="https://img.shields.io/badge/python-3.9%2B-blue" alt="Python" />
   <img src="https://img.shields.io/badge/next.js-14-black" alt="Next.js" />
 </p>
