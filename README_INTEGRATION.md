@@ -233,18 +233,6 @@ We envision a world where no one is left out of a conversation because of a lang
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
 <p align="center">
   Made with ❤️ by the AURA Team
 </p>
