@@ -1,4 +1,6 @@
+<p align="center">
 # AURA 🤟
+</p>
 
 ### AI-Powered Multi-Modal Sign Language Communication System
 
