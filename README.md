@@ -213,14 +213,6 @@ sequenceDiagram
 
 ---
 
-## Vision
-
-AURA aims to make communication **inclusive**, **accessible**, and **intelligent** by bridging the gap between **spoken language and sign language** using cutting-edge AI.
-
-We envision a world where no one is left out of a conversation because of a language barrier—whether spoken or signed.
-
----
-
 ##  Team
 
 ### Ann Maria Jaison
@@ -245,6 +237,14 @@ We envision a world where no one is left out of a conversation because of a lang
 - Documentation
 - Presentation
 - Backend Development: Audio-to-Text Module
+
+## Vision
+
+AURA aims to make communication **inclusive**, **accessible**, and **intelligent** by bridging the gap between **spoken language and sign language** using cutting-edge AI.
+
+We envision a world where no one is left out of a conversation because of a language barrier—whether spoken or signed.
+
+---
 
 <p align="center">
   Made with ❤️ by the AURA Team
