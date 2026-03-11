@@ -230,8 +230,6 @@ We envision a world where no one is left out of a conversation because of a lang
 -  Machine learning
 - Backend: Audio-to-Text Module, Sign-to-Text and Text-to-Sign Module
 - Documentation
-- Research
-
 ### Ashlin Joy Varghese
 - Research
 - Documentation
