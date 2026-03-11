@@ -75,22 +75,22 @@ Instead of forcing people to adapt to technology,
 Take a look at AURA in action:
 
 <div align="center">
-  <img src="screenshots/sign-to-text.png" alt="Sign to Text Translation" width="400"/>
+  <img src="Images/1.png" alt="Sign to Text Translation" width="400"/>
   <p><em>Sign to Text – Real-time gesture recognition</em></p>
 </div>
 
 <div align="center">
-  <img src="screenshots/text-to-sign.png" alt="Text to Sign Translation" width="400"/>
+  <img src="Images/2.png" alt="Text to Sign Translation" width="400"/>
   <p><em>Text to Sign – Typed message converted to sign animations</em></p>
 </div>
 
 <div align="center">
-  <img src="screenshots/audio-to-sign.png" alt="Audio to Sign Translation" width="400"/>
+  <img src="Images/3.png" alt="Audio to Sign Translation" width="400"/>
   <p><em>Audio to Sign – Speech transcribed and mapped to signs</em></p>
 </div>
 
 <div align="center">
-  <img src="screenshots/signbook.png" alt="Signbook Library" width="400"/>
+  <img src="Images/4.png" alt="Signbook Library" width="400"/>
   <p><em>Signbook – Browse and learn common signs</em></p>
 </div>
 
