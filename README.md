@@ -43,7 +43,7 @@ But **real conversations** require **two-way communication**—and sometimes eve
 
 ## Our Solution
 
-We built **AURA**, a **multi-modal communication system** that seamlessly connects:
+We built **AURA**,  a **multi-modal communication system** that seamlessly connects:
 
 **Sign Language**  
 **Text**  
